@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuzarzulfikar" alt="abuzarzulfikar" /></a> </p>
 
-<p align="left"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abuzar_zulfikar?logo=twitter&style=for-the-badge" alt="https://twitter.com/abuzar_zulfikar" /></a> </p>
-
 - 🔭 I’m currently working on **BrainVision**
 
 - 🌱 I’m currently learning **Computer Vision**

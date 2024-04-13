@@ -4,17 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Passionate about NLP & Reinforcement Learning
 --------------------------------------------------------------
 
-I am an accomplished data scientist with a deep understanding of computer science and a strong aptitude for harnessing the power of data to drive insightful solution
-
-* 🌍  I'm based in Punjab, Pakistan
-* ✉️  You can contact me at [abuzarzulfikar@gmail.com](mailto:abuzarzulfikar@gmail.com)
-* 🚀  I'm currently working on [Auto-Essential](http://auto)
-* 🏢  I'm currently working in [KASWA.AI](https://www.kaswa.ai/)
-* 🧠  I'm learning NLP
-* 🤝  I'm open to collaborating on Data Science
-* ⚡  COMSATS Computer Science student proficient in Python, TensorFlow, and PyTorch for data science. Actively engaged in diverse projects, eager to collaborate on AI and analytics exploration.
-
-<a href="https://www.x.com/abuzarzulfikar" target="_blank" rel="noreferrer"><img
+I am an accomplished data scientist with a deep understanding of computer science and a strong aptitude for harnessing the power of data to drive insightful solution<a href="https://www.x.com/abuzarzulfikar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/abuzarzulfikar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
